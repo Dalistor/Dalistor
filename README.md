@@ -1,16 +1,26 @@
-### Hi there 👋
+# Bem-vindo(a) ao meu perfil do GitHub!
 
-<!--
-**Dalistor/Dalistor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Diego Cabral | Programador
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos Destacados
+
+- [Vekor](https://github.com/Dalistor/Vekor.git): Um site de bate papo em tempo real.
+- [Pench](https://github.com/Dalistor/Pench.git): Um site pessoal para guardar arquivos.
+- [virpg](https://github.com/Dalistor/virpg-first-website-.git): Um site feito para automatizar um jogo de RPG de mesa.
+
+## Experiência
+
+- [WorldSkills]: Competidor nacional da modalidade 23 - Robótica móvel.
+
+## Habilidades
+
+- [Front-end]: Nível básico/intemediário  | Técnologias: HTML, CSS, JS, JQuery.
+- [Back-end]:  Nível básico/intermediário | Técnologias: Python, Django.
+- [Embarcado]: Nível básico               | Técnologias: C++, LabView.
+- [Mobile]: Nível básico                  | Técnologias: Java.
+
+## Contato
+
+- Email: [diego.sil.cabral@gmail.com]
