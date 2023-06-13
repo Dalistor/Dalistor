@@ -6,7 +6,7 @@ Diego Cabral | Programador
 
 # Minhas Linguagens de Programação
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalistor&layout=compact&theme=dark&card_width=450&langs_count=6&custom_title=Linguagens%20Mais%20Usadas)](https://github.com/Dalistor/Dalistor)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalistor&layout=compact&theme=dark&custom_title=Linguagens%20Mais%20Usadas&card_width=450&hide_border=true&bg_color=00000000)](https://github.com/Dalistor/Dalistor)
 
 ## Projetos Destacados
 
