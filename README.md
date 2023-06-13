@@ -8,11 +8,6 @@ Diego Cabral | Programador
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalistor&layout=compact&theme=dark&custom_title=Linguagens%20Mais%20Usadas&card_width=450&bg_color=00000000)](https://github.com/Dalistor/Dalistor)
 
-<div>
-  <a href="https://github.com/Dalistor">
-  <img height="180em" weigth="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalistor&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ## Projetos Destacados
 
 - [Vekor](https://github.com/Dalistor/Vekor.git): Um site de bate papo em tempo real.
