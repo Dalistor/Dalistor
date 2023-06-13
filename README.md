@@ -10,7 +10,7 @@ Diego Cabral | Programador
 
 <div>
   <a href="https://github.com/Dalistor">
-  <img height="180em" weigth="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalistor&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" weigth="100vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalistor&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Projetos Destacados
