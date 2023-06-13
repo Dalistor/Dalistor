@@ -12,15 +12,15 @@ Diego Cabral | Programador
 
 ## Experiência
 
-- [WorldSkills]: Competidor nacional da modalidade 23 - Robótica móvel.
+- WorldSkills: Competidor nacional da modalidade 23 - Robótica móvel.
 
 ## Habilidades
 
-- [Front-end]: Nível básico/intemediário  | Técnologias: HTML, CSS, JS, JQuery.
-- [Back-end]:  Nível básico/intermediário | Técnologias: Python, Django.
-- [Embarcado]: Nível básico               | Técnologias: C++, LabView.
-- [Mobile]: Nível básico                  | Técnologias: Java.
+- Front-end: Nível básico/intemediário  | Técnologias: HTML, CSS, JS, JQuery.
+- Back-end:  Nível básico/intermediário | Técnologias: Python, Django.
+- Embarcado: Nível básico               | Técnologias: C++, LabView.
+- Mobile: Nível básico                  | Técnologias: Java.
 
 ## Contato
 
-- Email: [diego.sil.cabral@gmail.com]
+- Email: diego.sil.cabral@gmail.com
