@@ -8,14 +8,13 @@ Diego Cabral | Programador
 <div>
 <a href="https://github.com/Dalistor">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalistor&layout=compact&langs_count=7&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dalistor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Projetos Destacados
 
 - [Vekor](https://github.com/Dalistor/Vekor.git): Um site de bate papo em tempo real.
 - [Pench](https://github.com/Dalistor/Pench.git): Um site pessoal para guardar arquivos.
-- [virpg](https://github.com/Dalistor/virpg-first-website-.git): Um site feito para automatizar um jogo de RPG de mesa.
+- [DED-dices](https://deddices.pythonanywhere.com): Um site feito para automatizar um jogo de RPG de mesa.
 
 ## Experiência
 
