@@ -7,7 +7,7 @@ Diego Cabral | Programador
 # Minhas Linguagens de Programação
 <div>
 <a href="https://github.com/Dalistor">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalistor&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalistor&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
 ## Projetos Destacados
