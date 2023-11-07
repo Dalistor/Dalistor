@@ -18,7 +18,7 @@ Diego Cabral | Programador
 
 ## Experiência
 
-- WorldSkills: Competidor nacional da modalidade 23 - Robótica móvel.
+- WorldSkills: Ex-competidor nacional da modalidade #23 - Robótica móvel.
 
 ## Habilidades
 
