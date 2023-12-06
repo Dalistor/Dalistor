@@ -22,8 +22,8 @@ Diego Cabral | Programador
 
 ## Habilidades
 
-- Front-end: Nível básico/intemediário  | Técnologias: HTML, CSS, JavaScript.
-- Back-end:  Nível básico/intermediário | Técnologias: Python.
+- Front-end: Nível básico/básico/intemediário  | Técnologias: HTML, CSS, JavaScript.
+- Back-end:  Nível intermediário | Técnologias: Python. Django.
 - Embarcado: Nível básico/intermediário | Técnologias: C++, LabView.
 - Mobile: Nível básico                  | Técnologias: Java.
 
