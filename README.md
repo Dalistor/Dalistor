@@ -13,7 +13,7 @@ Diego Cabral | Programador
 ## Projetos Destacados
 
 - [Vekor](https://github.com/Dalistor/Vekor.git): Um site de bate papo em tempo real.
-- [Pench](https://github.com/Dalistor/Pench.git): Um site pessoal para guardar arquivos.
+- [IATele](https://github.com/Dalistor/Pench.git): Um bot integrado com inteligências artificiais.
 - [DED-dices](https://deddices.pythonanywhere.com): Um site feito para automatizar um jogo de RPG de mesa.
 
 ## Experiência
@@ -22,11 +22,20 @@ Diego Cabral | Programador
 
 ## Habilidades
 
-- Front-end: Nível básico/básico/intemediário  | Técnologias: HTML, CSS, JavaScript.
-- Back-end:  Nível intermediário | Técnologias: Python. Django.
-- Embarcado: Nível básico/intermediário | Técnologias: C++, LabView.
-- Mobile: Nível básico                  | Técnologias: Java.
+- HTML
+- CSS
+- JS
+- Node
+- Express
+- React
+- Python
+- Flask
+- Django
+- MySQL
+- Linux
+- API
 
 ## Contato
 
 - Email: diego.sil.cabral@gmail.com
+- Plataforma de freelancer: https://www.99freelas.com.br/user/Dalistor
