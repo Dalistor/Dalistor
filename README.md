@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Diego Cabral | Programador
+Diego Cabral | Programador freelancer tempo integral
 
 # Minhas Linguagens de Programação
 <div>
