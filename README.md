@@ -19,15 +19,18 @@ Diego Cabral | Programador freelancer tempo integral
 ## Experiência
 
 - WorldSkills: Ex-competidor nacional da modalidade #23 - Robótica móvel.
+- Freelancer: Atualmente atuo como freelancer, desenvolvendo sites e softwares.
 
 ## Habilidades
 
 - HTML
 - CSS
+- Bootstrap
+- TailWind
+- Vue
 - JS
 - Node
 - Express
-- React
 - Python
 - Flask
 - Django
@@ -38,4 +41,6 @@ Diego Cabral | Programador freelancer tempo integral
 ## Contato
 
 - Email: diego.sil.cabral@gmail.com
-- Plataforma de freelancer: https://www.99freelas.com.br/user/Dalistor
+- Plataforma de freelancer
+    * [99freelas](https://github.com/Dalistor/Vekor.git)
+    * [Workana](https://www.workana.com/freelancer/9773b02ae1caa190d8552ebddfb5da37)
