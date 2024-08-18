@@ -8,8 +8,8 @@ Diego Cabral | Programador freelancer tempo integral
 <hr>
 <div>
   <a href="https://github.com/m-eleoterio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dalistor&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalistor&layout=compact&langs_count=8&hide_border=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dalistor&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalistor&layout=compact&langs_count=8&hide_border=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
 <hr>
 
