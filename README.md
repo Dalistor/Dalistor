@@ -29,6 +29,7 @@ Diego Cabral | Programador freelancer tempo integral
 - TailWind
 - Vue
 - JS
+- JQuery
 - Node
 - Express
 - Python
