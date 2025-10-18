@@ -12,39 +12,26 @@ Diego Cabral | Programador freelancer tempo integral
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalistor&layout=compact&langs_count=8&hide_border=true&theme=onedark&include_all_commits=true&count_private=true"/>
 </div>
 <hr>
-
-## Projetos Destacados
-
-- [Vekor](https://github.com/Dalistor/Vekor.git): Um site de bate papo em tempo real.
-- [IATele](https://github.com/Dalistor/Pench.git): Um bot integrado com inteligências artificiais.
-- [DED-dices](https://deddices.pythonanywhere.com): Um site feito para automatizar um jogo de RPG de mesa.
-
+  
 ## Experiência
 
 - WorldSkills: Ex-competidor nacional da modalidade #23 - Robótica móvel.
-- Freelancer: Atualmente atuo como freelancer, desenvolvendo sites e softwares.
+- Freelancer: Atualmente atuo como freelancer, desenvolvendo sites, APIs, automações e etc...
 
 ## Habilidades
 
-- HTML
-- CSS
-- Bootstrap
-- TailWind
-- Vue
-- JS
-- JQuery
-- Node
-- Express
+- Javascript
 - Python
-- Flask
+- Golang
+- Electron
+- Quasar
 - Django
-- MySQL
-- Linux
-- API
+- Flask
+- Gin
 
 ## Contato
 
 - Email: diego.sil.cabral@gmail.com
-- Plataforma de freelancer
+- Plataformas de freelancer
     * [99freelas](https://www.99freelas.com.br/user/Dalistor)
     * [Workana](https://www.workana.com/freelancer/9773b02ae1caa190d8552ebddfb5da37)
