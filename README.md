@@ -46,5 +46,5 @@ Diego Cabral | Programador freelancer tempo integral
 
 - Email: diego.sil.cabral@gmail.com
 - Plataforma de freelancer
-    * [99freelas](https://github.com/Dalistor/Vekor.git)
+    * [99freelas](https://www.99freelas.com.br/user/Dalistor)
     * [Workana](https://www.workana.com/freelancer/9773b02ae1caa190d8552ebddfb5da37)
