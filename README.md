@@ -4,7 +4,7 @@
 
 Diego Cabral | Programador freelancer tempo integral
 
-# Minhas Linguagens de Programação
+# Estatísticas
 <hr>
 <div>
   <a href="https://github.com/Dalistor">
