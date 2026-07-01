@@ -2,12 +2,12 @@
 
 ## Sobre Mim
 
-Diego Cabral | Programador freelancer tempo integral
+Diego Cabral | Dev Pleno
 
 ## Experiência
 
 - WorldSkills: Ex-competidor nacional da modalidade #23 - Robótica móvel.
-- Freelancer: Atualmente atuo como freelancer, desenvolvendo sites, APIs, automações e etc...
+- Freelancer: desenvolvendo sites, APIs, automações e etc...
 
 ## Habilidades
 
